@@ -1,3 +1,5 @@
+# Demonstrations of Dot Product and Unit Vectors.
+
 # In-View of a Player/NPC
 
 
